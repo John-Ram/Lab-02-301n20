@@ -1,13 +1,15 @@
 # Lab-02-301n20
 
-Number and name of feature: ________________________________
+Number and name of feature: Lab 02 version 1.0, feature 1.
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 45 mins.
 
-Start time: _____
+Start time: 1915
 
-Finish time: _____
+Finish time: 2115
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours
 
-Driver: & Navigator:
+Driver: Anthony Ochua & Navigator: Leon Jukelis(John Ramirez)
+
+Notes: Image rendering fixed and uploaded. Approved to continue next feature. next feature is to set active filter for user. estimated time for feature 2 completion is one hour. 
