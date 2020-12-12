@@ -13,3 +13,49 @@ Actual time needed to complete: 2 hours
 Driver: Anthony Ochua & Navigator: Leon Jukelis(John Ramirez)
 
 Notes: Image rendering fixed and uploaded. Approved to continue next feature. next feature is to set active filter for user. estimated time for feature 2 completion is one hour. 
+
+Number and name of feature: Lab 02 version 1.1, feature 2.
+
+Estimate of time needed to complete: 45 mins.
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+Driver:
+
+# Lab-03-301n20
+
+Number and name of feature: Lab 3, feature 1: Pagination.
+
+Estimate of time needed to complete: 1hr 30mins
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+Number and name of feature: Lab 3, feature 2: Templating.
+
+Estimate of time needed to complete: 45mins
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+Number and name of feature: Lab 3, feature 3: Styling with Flexbox
+
+Estimate of time needed to complete: 45mins
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
