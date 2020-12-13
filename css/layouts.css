@@ -1,0 +1,20 @@
+img {
+  height: 250px;
+  width: 350px;
+}
+
+.topnav a {
+  /* float: right; */
+  position: relative;
+  left: -1%;
+  color: #c01313;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#selector {
+  position: relative;
+  left: 15%;
+}
