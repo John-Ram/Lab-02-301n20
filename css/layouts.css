@@ -11,7 +11,7 @@ img {
 .clonedImg{
   float: left;
   margin-left: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   position: relative;
   right: 34%;
 }
@@ -26,7 +26,6 @@ img {
 }
 
 .topnav a {
-  /* float: right; */
   position: relative;
   left: 1%;
   color: #c01313;
@@ -40,6 +39,7 @@ img {
   position: relative;
   left: 11%;
   top: 20px;
+  text-align: center;
 }
 
 
