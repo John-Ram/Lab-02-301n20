@@ -3,10 +3,32 @@ img {
   width: 350px;
 }
 
+.photo-template{
+  display: none;
+  
+}
+
+.clonedImg{
+  float: left;
+  margin-left: 25px;
+  margin-bottom: 25px;
+  position: relative;
+  right: 34%;
+}
+
+.clonedImg p{
+  width: 250px;
+  height: 150px;
+}
+
+.topnav{
+  max-width: 960px;
+}
+
 .topnav a {
   /* float: right; */
   position: relative;
-  left: -1%;
+  left: 1%;
   color: #c01313;
   text-align: center;
   padding: 14px 16px;
@@ -16,5 +38,17 @@ img {
 
 #selector {
   position: relative;
-  left: 15%;
+  left: 11%;
+  top: 20px;
+}
+
+
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
 }
